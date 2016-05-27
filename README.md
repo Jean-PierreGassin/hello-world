@@ -4,7 +4,9 @@ A package that says hello world
 
 ## Installation
 
-cbf adding to packagist
+Install this package via composer
+
+`composer require jean-pierregassin/hello-world`
 
 ## Usage
 
