@@ -1,6 +1,7 @@
 {
     "name": "jean-pierregassin/hello-world",
     "description": "A package that says hello world",
+		"version": "0.0.1",
     "license": "MIT",
     "authors": [
         {
