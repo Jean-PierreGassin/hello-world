@@ -48,6 +48,6 @@ class HelloWorld
 	 */
 	public function say()
 	{
-		print "Hello $name!";
+		print "Hello $this->name!";
 	}
 }
