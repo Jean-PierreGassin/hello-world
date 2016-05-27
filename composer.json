@@ -1,0 +1,12 @@
+{
+    "name": "jean-pierregassin/hello-world",
+    "description": "A package that says hello world",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jean-Pierre Gassin",
+            "email": "jeanpierre.gassin@gmail.com"
+        }
+    ],
+    "require": {}
+}
