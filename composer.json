@@ -1,7 +1,7 @@
 {
     "name": "jean-pierregassin/hello-world",
-    "description": "A package that says hello world",
-		"version": "0.0.2",
+    "description": "A package that is able to echo hello 'argument' (optional)",
+		"version": "0.0.3",
     "license": "MIT",
     "authors": [
         {
