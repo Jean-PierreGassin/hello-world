@@ -1,6 +1,6 @@
 <?php
 
-namespace Jean_PierreGassin\HelloWorld;
+namespace JeanPierreGassin\HelloWorld;
 
 /**
 * A class to say hello
