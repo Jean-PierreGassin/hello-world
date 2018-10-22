@@ -1,6 +1,6 @@
 <?php
 
-use Jean_PierreGassin\HelloWorld\HelloWorld;
+use JeanPierreGassin\HelloWorld\HelloWorld;
 
 class HelloWorldTest extends PHPUnit_Framework_TestCase
 {
